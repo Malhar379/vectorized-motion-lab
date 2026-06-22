@@ -64,13 +64,6 @@ vectorized-motion-lab/
 - Data visualization
 - Modular code design
 
-## Run Locally
-
-Install dependencies:
-
-
-pip install -r requirements.txt
-
 
 Run:
 
