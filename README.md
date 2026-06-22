@@ -72,8 +72,3 @@ Run:
 
 
 python main.py
-
-
-## Motivation
-
-This project was built as part of a larger effort to understand systems through state, rules, and evolution over time. It serves as a foundation for more complex simulations and learning-based systems.
