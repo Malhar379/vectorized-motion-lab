@@ -25,20 +25,24 @@ Vectorized Motion Lab simulates particles evolving inside a bounded environment 
 ## Project Structure
 
 
+## Project Structure
+
+```text
 vectorized-motion-lab/
 
 ├── images/
-│     trajectory.png
-│     animation.gif
+│     ├── trajectory.png
+│     └── animation.gif
 │
 ├── src/
-│     initialize.py
-│     simulation.py
-│     visualization.py
+│     ├── initialize.py
+│     ├── simulation.py
+│     └── visualization.py
 │
 ├── main.py
 ├── requirements.txt
 └── README.md
+```
 
 
 ## Trajectory Visualization
