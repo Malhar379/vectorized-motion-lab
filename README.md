@@ -63,9 +63,3 @@ vectorized-motion-lab/
 - History recording
 - Data visualization
 - Modular code design
-
-
-Run:
-
-
-python main.py
