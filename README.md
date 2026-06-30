@@ -1,4 +1,4 @@
-# Vectorized Motion Lab
+# Vectorized Particle Simulation Engine
 
 A vectorized particle universe built with NumPy and Matplotlib.
 
